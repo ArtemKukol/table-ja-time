@@ -1,0 +1,14 @@
+input {
+
+}
+
+table tr td{
+   padding: 1px;
+   color: #666;
+}
+
+input {
+   margin: 5px;
+   cursor: pointer;
+   
+}
